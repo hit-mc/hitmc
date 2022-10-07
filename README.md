@@ -26,6 +26,8 @@
 | mod 服 | sz.mod.hitmc.cc  |    深圳    |
 | 活动服 | pub.ac.hitmc.cc  |  北京隧道  |
 | 活动服 |  sz.ac.hitmc.cc  |  深圳隧道  |
+| 退休服 |   rtr.hitmc.cc   | 本部校园网 |
+| 退休服 | pub.rtr.hitmc.cc |  北京隧道  |
 
 ## 目前的管理体系
 
