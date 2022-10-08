@@ -49,3 +49,6 @@
 <div style="text-align: center;">
   <image src="assets/images/join/7.png" alt="HITMC" style="width:50%;">
 </div>
+
+## 安装整合包
+  + 请移至[modpack安装文档](https://github.com/hit-mc/hitmc/blob/main/install.md)
