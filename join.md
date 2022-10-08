@@ -49,6 +49,3 @@
 <div style="text-align: center;">
   <image src="assets/images/join/7.png" alt="HITMC" style="width:50%;">
 </div>
-  
-## 整合包安装
-  请移至[Install.md](https://github.com/hit-mc/hitmc/blob/main/Install.md)
