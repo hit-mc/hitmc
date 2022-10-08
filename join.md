@@ -51,4 +51,4 @@
 </div>
   
 ## 整合包安装
-  请移至[install.md](https://github.com/hit-mc/hitmc/blob/main/install.md)
+  请移至[Install.md](https://github.com/hit-mc/hitmc/blob/main/Install.md)
